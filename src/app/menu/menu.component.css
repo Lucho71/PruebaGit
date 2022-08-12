@@ -1,0 +1,12 @@
+ul {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    background-color: tomato;
+
+}
+
+ul li {
+    margin: 20px;
+    cursor: pointer;
+}
